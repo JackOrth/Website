@@ -1,0 +1,48 @@
+body{
+	margin: 0;
+	font-family: Arial;
+	background-color: black;
+	line-height: 30px;
+}
+
+header{
+	background-color: lightsteelblue;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+h1, h2, h3{
+	font-family: 'Inconsolata', monospace;
+}
+
+header h1{
+	color: black;
+}
+
+header img{
+	border-radius: 150px;
+	width: 300px;
+}
+
+main{
+	max-width: 100%;
+	background-color: beige;
+	text-align: center;
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+
+main img{
+	max-width: 100%;
+}
+
+footer{
+	background-color: snow;
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+
+
+
+
